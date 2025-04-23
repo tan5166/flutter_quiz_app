@@ -4,4 +4,6 @@ This is a simple Flutter project.
 
 # Demo
 
-<video src='./assets/demo/demo.mp4' width=180/>
+See demo in below link:
+
+[Demo.mp4](./assets/demo/demo.mp4)
